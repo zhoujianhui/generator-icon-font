@@ -11,4 +11,4 @@ npm install -g yo
 ```
 yo icon-font
 ```
-After scaffolding your icon font project, you can read generated README.md for details.
+After scaffolding your icon font project, you can read generated [README.md](test-icon-font/README.md) for details.
