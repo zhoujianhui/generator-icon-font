@@ -7,7 +7,12 @@ A Yeoman generator for create icon font from svg
 npm install -g yo
 ```
 
-2、Use generator-icon-font
+2. Global install generator-icon-font
+```
+npm install -g generator-icon-font
+```
+
+3、Use generator-icon-font
 ```
 yo icon-font
 ```
