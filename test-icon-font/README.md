@@ -18,5 +18,5 @@ gulp
 ```
 使用字体图标
 ```html
-<div class="icon-test">test icon</div>
+<div class="icon-test">icon-test</div>
 ```
