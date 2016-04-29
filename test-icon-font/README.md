@@ -4,8 +4,9 @@
 ## Usage
 1、将所需生成字体的svg放置在src/svg下
 
-2、执行如下命令
+2、全局安装gulp-cli并启动gulp构建任务
 ```
+npm install -g gulp-cli
 gulp
 ```
 
